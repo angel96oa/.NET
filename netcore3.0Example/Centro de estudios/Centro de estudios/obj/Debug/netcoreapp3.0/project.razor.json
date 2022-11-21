@@ -1,0 +1,155 @@
+{
+  "FilePath": "c:\\Users\\angel\\source\\repos\\.NET\\netcore3.0Example\\Centro de estudios\\Centro de estudios\\Centro de estudios.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "3.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 800
+  },
+  "RootNamespace": "Centro_de_estudios",
+  "Documents": [
+    {
+      "FilePath": "c:\\Users\\angel\\source\\repos\\.NET\\netcore3.0Example\\Centro de estudios\\Centro de estudios\\Views\\Compras\\Create.cshtml",
+      "TargetPath": "Views\\Compras\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\angel\\source\\repos\\.NET\\netcore3.0Example\\Centro de estudios\\Centro de estudios\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\angel\\source\\repos\\.NET\\netcore3.0Example\\Centro de estudios\\Centro de estudios\\Views\\Compras\\Index.cshtml",
+      "TargetPath": "Views\\Compras\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\angel\\source\\repos\\.NET\\netcore3.0Example\\Centro de estudios\\Centro de estudios\\Views\\Impartirs\\SelectAsignaturasForImpartir.cshtml",
+      "TargetPath": "Views\\Impartirs\\SelectAsignaturasForImpartir.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\angel\\source\\repos\\.NET\\netcore3.0Example\\Centro de estudios\\Centro de estudios\\Views\\Matriculas\\Create.cshtml",
+      "TargetPath": "Views\\Matriculas\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\angel\\source\\repos\\.NET\\netcore3.0Example\\Centro de estudios\\Centro de estudios\\Views\\Impartirs\\Delete.cshtml",
+      "TargetPath": "Views\\Impartirs\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\angel\\source\\repos\\.NET\\netcore3.0Example\\Centro de estudios\\Centro de estudios\\Views\\Compras\\Details.cshtml",
+      "TargetPath": "Views\\Compras\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\angel\\source\\repos\\.NET\\netcore3.0Example\\Centro de estudios\\Centro de estudios\\Views\\Matriculas\\SelectAsignaturasForMatricula.cshtml",
+      "TargetPath": "Views\\Matriculas\\SelectAsignaturasForMatricula.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\angel\\source\\repos\\.NET\\netcore3.0Example\\Centro de estudios\\Centro de estudios\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\angel\\source\\repos\\.NET\\netcore3.0Example\\Centro de estudios\\Centro de estudios\\Views\\Matriculas\\Index.cshtml",
+      "TargetPath": "Views\\Matriculas\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\angel\\source\\repos\\.NET\\netcore3.0Example\\Centro de estudios\\Centro de estudios\\Views\\Compras\\SelectMaterialesForCompra.cshtml",
+      "TargetPath": "Views\\Compras\\SelectMaterialesForCompra.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\angel\\source\\repos\\.NET\\netcore3.0Example\\Centro de estudios\\Centro de estudios\\Views\\Impartirs\\Create.cshtml",
+      "TargetPath": "Views\\Impartirs\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\angel\\source\\repos\\.NET\\netcore3.0Example\\Centro de estudios\\Centro de estudios\\Views\\Compras\\Delete.cshtml",
+      "TargetPath": "Views\\Compras\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\angel\\source\\repos\\.NET\\netcore3.0Example\\Centro de estudios\\Centro de estudios\\Views\\Shared\\_LoginPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\angel\\source\\repos\\.NET\\netcore3.0Example\\Centro de estudios\\Centro de estudios\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\angel\\source\\repos\\.NET\\netcore3.0Example\\Centro de estudios\\Centro de estudios\\Views\\Matriculas\\Details.cshtml",
+      "TargetPath": "Views\\Matriculas\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\angel\\source\\repos\\.NET\\netcore3.0Example\\Centro de estudios\\Centro de estudios\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\angel\\source\\repos\\.NET\\netcore3.0Example\\Centro de estudios\\Centro de estudios\\Views\\Impartirs\\Details.cshtml",
+      "TargetPath": "Views\\Impartirs\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\angel\\source\\repos\\.NET\\netcore3.0Example\\Centro de estudios\\Centro de estudios\\Views\\Compras\\Edit.cshtml",
+      "TargetPath": "Views\\Compras\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\angel\\source\\repos\\.NET\\netcore3.0Example\\Centro de estudios\\Centro de estudios\\Views\\Matriculas\\Delete.cshtml",
+      "TargetPath": "Views\\Matriculas\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\angel\\source\\repos\\.NET\\netcore3.0Example\\Centro de estudios\\Centro de estudios\\Views\\Impartirs\\Edit.cshtml",
+      "TargetPath": "Views\\Impartirs\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\angel\\source\\repos\\.NET\\netcore3.0Example\\Centro de estudios\\Centro de estudios\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\angel\\source\\repos\\.NET\\netcore3.0Example\\Centro de estudios\\Centro de estudios\\Views\\Impartirs\\Index.cshtml",
+      "TargetPath": "Views\\Impartirs\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\angel\\source\\repos\\.NET\\netcore3.0Example\\Centro de estudios\\Centro de estudios\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\angel\\source\\repos\\.NET\\netcore3.0Example\\Centro de estudios\\Centro de estudios\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\angel\\source\\repos\\.NET\\netcore3.0Example\\Centro de estudios\\Centro de estudios\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\angel\\source\\repos\\.NET\\netcore3.0Example\\Centro de estudios\\Centro de estudios\\Views\\Matriculas\\Edit.cshtml",
+      "TargetPath": "Views\\Matriculas\\Edit.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}
